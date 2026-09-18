@@ -6,7 +6,7 @@
 */
 
 package customer;
-
+   
 public class Customer
 {
     public String customerName;
