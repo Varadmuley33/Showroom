@@ -2,7 +2,7 @@
     File Name : Employee.java
     Description : Represents the details of an employee working in the showroom.
     Author : Varad Nitin Muley
-    Date : 18 September 2026
+    Date : 18 September 2026   
 */
 
 package employee;
