@@ -1,0 +1,8 @@
+Helmet|2500|20
+Bike Cover|1200|15
+Seat Cover|1800|10
+Mobile Holder|900|12
+Crash Guard|3500|8
+Car Floor Mat|4500|10
+Car Seat Cover|6500|8
+Car Cover|2500|12

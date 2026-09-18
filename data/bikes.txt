@@ -1,0 +1,12 @@
+Triumph|Speed 400|234140|Petrol|398|20
+Triumph|Speed T4|208972|Petrol|398|20
+Triumph|Scrambler 400 X|264978|Petrol|398|15
+Triumph|Scrambler 400 XC|299333|Petrol|398|10
+Triumph|Thruxton 400|275335|Petrol|398|10
+Triumph|Tracker 400|249253|Petrol|398|10
+KTM|Duke 250|210000|Petrol|249|30
+KTM|Duke 390|300000|Petrol|399|28
+Bajaj|Pulsar 150|120000|Petrol|149|40
+Bajaj|Pulsar NS200|150000|Petrol|199|35
+Royal Enfield|Classic 350|195000|Petrol|349|25
+Royal Enfield|Hunter 350|150000|Petrol|349|30

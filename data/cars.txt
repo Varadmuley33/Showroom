@@ -1,0 +1,8 @@
+Volkswagen|Virtus|1200000|Petrol|999|20
+Volkswagen|Taigun|1150000|Petrol|999|15
+Skoda|Slavia|1100000|Petrol|999|18
+Skoda|Kushaq|1150000|Petrol|999|15
+Jeep|Compass|2000000|Petrol|1995|10
+Jeep|Meridian|3300000|Diesel|1956|8
+Toyota|Urban Cruiser Hyryder|1100000|Petrol|1462|12
+Toyota|Fortuner|3300000|Diesel|2755|8

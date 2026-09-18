@@ -1,0 +1,8 @@
+Bike|Triumph
+Bike|KTM
+Bike|Bajaj
+Bike|Royal Enfield
+Car|Volkswagen
+Car|Skoda
+Car|Jeep
+Car|Toyota
